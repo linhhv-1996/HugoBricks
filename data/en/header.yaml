@@ -1,0 +1,16 @@
+logo_image:
+logo_subtitle: The Ultimate Hugo theme
+mobile_view_width: 1000
+menuitems:
+  - title: Home
+    link: /
+  - title: Blog
+    link: /blog/
+  - title: About
+    link: /about/
+  - title: Contact us
+    link: /contact/
+cta:
+  active: true
+  title: Get started
+  link: /get-started/
