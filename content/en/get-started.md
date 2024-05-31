@@ -7,7 +7,7 @@ title: Get started
 
 # Get started
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc feugiat, nulla et scelerisque volutpat, elit felis condimentum odio, et bibendum lacus sem sed turpis. 
+The fastest way to make $5k-$10k+/month from affiliate revenue, ad revenue, sponsors, and digital product sales without spending a bunch of money or going viral.
 
 ---
 

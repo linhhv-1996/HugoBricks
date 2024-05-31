@@ -1,48 +1,28 @@
 ---
 title: features
 ---
-## The Ultimate Hugo theme
+## Free 0-$10k Online Business Masterclass 
 
-Hugobricks covers all components you would like to have at hand. It is a power engine for your web oriented projects. It has excellent performance in all categories.
+Learn to produce 3-5x the amount of content with the power of AI writing tools. This will boost your rankings and authority in months, not years.
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
-### Covers all components
+### Scale Content with AI
 
-We aim to provide the following bricks: intro, title, image, cta, contact, team, testimonials, about, pricing, products, product, usps, stats, gallery, quote, faqs, brands, video, blogs, post, related.
+With BGE, I realized I had to pivot my initial strategy of writing in Finnish to writing in English to attract a larger audience. Since following Adam's advice, my traffic and revenue have doubled, and I'm making more money with my business than I am in my 9-5 job.
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/performance_max.svg)
-### 99+ Google Lighthouse score
+### Affiliate Marketing
 
-Lightning fast website. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
+I started a fitness website to work on in my spare time and I got nowhere for 9 months. That's when I found BGE. Once enrolled, I started going through the modules and realized where I was messing up. Now I'm generating affiliate income.
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/design_services.svg)
-### Themeable through CSS variables
+### Keyword Research
 
-Easily themeable. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
+I've been blogging for several years and have bought tons of courses. I was curious to see what Adam was doing, so I bought BGE and started implementing Adam's strategies. Thanks to the course, I've been able to scale my publishing and backlinks. 
 
----
-
-![](/img/icons/material-symbols/200/rounded/devices.svg)
-### Fully responsive on all devices
-
-Works on every screen. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
-
----
-
-![](/img/icons/material-symbols/200/rounded/timer.svg)
-### Super fast builds and deploys
-
-Extremely fast. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
-
----
-
-![](/img/icons/material-symbols/200/rounded/auto_fix.svg)
-### 10+ pre-build pages
-
-Start with the end result. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.

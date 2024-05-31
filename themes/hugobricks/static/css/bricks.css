@@ -286,4 +286,20 @@ section.docs .container .menu ul.nestedmenu li.current > a {color: var(--textAcc
     width: fit-content;
     margin-left: auto;
     margin-right: auto;
+    margin-top: -16px;
+}
+
+.gototop {
+    background: #f4b500;
+    cursor: pointer;
+    display: none;
+    width: 32px;
+    height: 32px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    color: white;
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
 }
