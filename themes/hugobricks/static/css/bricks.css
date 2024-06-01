@@ -302,6 +302,7 @@ section.docs .container .menu ul.nestedmenu li.current > a {color: var(--textAcc
     position: fixed;
     right: 10px;
     bottom: 10px;
+    z-index: 9999;
 }
 
 .related-title {
