@@ -19,3 +19,14 @@ languages:
     contentDir: content/en
     weight: 1
     disabled: false
+
+related:
+  includeNewer: true
+  indices:
+  - applyFilter: true
+    name: fragmentrefs
+    type: fragments
+    weight: 80
+  threshold: 20
+  toLower: false
+  

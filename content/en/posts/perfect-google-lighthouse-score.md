@@ -3,8 +3,7 @@ title: This theme has a perfect Google Lighthouse&nbsp;score
 image: /uploads/gallery/02.jpg
 date: 2023-07-11
 tags:
-  - performance
-  - jamstack
+  - google
 ---
 {{% toc %}}
 

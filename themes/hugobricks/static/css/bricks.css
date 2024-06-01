@@ -303,3 +303,12 @@ section.docs .container .menu ul.nestedmenu li.current > a {color: var(--textAcc
     right: 10px;
     bottom: 10px;
 }
+
+.related-title {
+    text-align: center;
+}
+
+.related-content {
+    padding-top: 35px !important;
+    padding-bottom: 20px !important;
+}

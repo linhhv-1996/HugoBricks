@@ -4,7 +4,6 @@ image: /uploads/gallery/03.jpg
 date: 2022-09-11
 tags:
   - code
-  - google
 ---
 
 Those who know me, know I care about DX just as much as UX. I will not use a feature that requires prefixes, polyfills or other wizardry. I can wait for a feature to land in your browser. The question I asked myself today (from this perspective) was: Has WebP landed yet?

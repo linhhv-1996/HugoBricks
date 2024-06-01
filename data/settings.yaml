@@ -3,7 +3,7 @@ sticky_header: true
 customcursor: false
 intersectionobserver: false
 filter_has_numbers: true
-page_size: 3
+page_size: 6
 preheader: 
   active: true
   is_light: true
