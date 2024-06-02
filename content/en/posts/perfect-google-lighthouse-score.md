@@ -15,7 +15,7 @@ You might feel that it is nearly impossible to get to a perfect 100% score. You 
 
 ## Common pitfalls
 
-### Common pitfalls 1
+### Common pitfalls are some basic facts that a lot of people
 
 There are some basic facts that a lot of people get wrong when it comes to speed and performance. Minifying does not beat gzipping, image scaling does not beat JPG compression and combining requests is actually counter-effective over HTTP/2. These are probably the reasons why your earlier efforts had so little effect. Another important thing to know is that Google Lighthouse simulates a slow connection. This emphasizes the importance of a low ‘page weight’ or ’total size’ over fast infrastructure, as a small page is delivered significantly faster over such a narrow connection than a large page.
 
