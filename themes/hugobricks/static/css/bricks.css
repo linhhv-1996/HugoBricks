@@ -273,6 +273,11 @@ section.docs .container .menu ul.nestedmenu li.current > a {color: var(--textAcc
     list-style-type: decimal;
 }
 
+#toc {
+    width: fit-content;
+    min-width: 250px;
+}
+
 #toc h4 {
     background: #e3e3e3;
     padding: 10px;
@@ -312,4 +317,23 @@ section.docs .container .menu ul.nestedmenu li.current > a {color: var(--textAcc
 .related-content {
     padding-top: 35px !important;
     padding-bottom: 20px !important;
+}
+
+.toc-title {
+    position: relative;
+}
+
+.toc-title img {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    cursor: pointer;
+}
+
+.toc-open {
+    display: block;
+}
+
+.toc-close {
+    display: none;
 }

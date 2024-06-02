@@ -133,6 +133,20 @@
           goTopIcon.style.display = "none";
         }
       }
+
+      const tocBtn = document.getElementById("toc-btn");
+      const tocContent = document.getElementById("toc-content");
+
+      tocBtn.addEventListener("click", function(e){
+        if (tocContent.classList.contains("toc-open")) {
+          tocContent.classList.remove("toc-open");
+          tocContent.classList.add("toc-close");
+        } else {
+          tocContent.classList.remove("toc-close");
+          tocContent.classList.add("toc-open");
+        }
+      });
+
     </script>
 
   </body>

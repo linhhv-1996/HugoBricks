@@ -1,4 +1,9 @@
 <nav id="toc">
-    <h4>Table of contents</h4>
-    {{ .Page.TableOfContents }}
+    <div class="toc-title">
+        <h4>Table of contents</h4>
+        <img id="toc-btn" width="50px" height="50px" src="https://static.thenounproject.com/png/210857-200.png">
+    </div>
+    <div id="toc-content" class="toc-content toc-open" data-open="open">
+        {{ .Page.TableOfContents }}
+    </div>
 </nav>
